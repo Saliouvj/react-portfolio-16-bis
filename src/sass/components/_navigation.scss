@@ -1,0 +1,35 @@
+
+.logo{
+    height: 100px;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    li{
+        a{
+            text-decoration: none;
+            list-style: none;
+            color: white;
+        }
+        .nav-active{
+            color: white;
+            text-decoration: none;
+            
+            
+            
+        }
+        .nav-active:hover{
+            color: rgb(0, 145, 255);
+        }
+    }
+    
+    
+    a{
+        margin:5px 15px;
+        text-decoration: none;
+
+        
+    }
+}
