@@ -21,8 +21,7 @@ export default class Background extends React.Component {
 						Bienvenue sur mon portfolio
 					</h1>
 					{/* offset can be cahnged in node modules wowjs default file */}
-					
-					
+				
 				</div>
 			</div>
 		);
