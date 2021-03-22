@@ -16,7 +16,7 @@ export default class Background extends React.Component {
 				<div id="stars3" />
 				<div className="top-container flex">
 					<h1>
-						Hello, je suis Saliou
+						Coucou les amis, je suis Saliou
 						<br />
 						Bienvenue sur mon portfolio
 					</h1>
