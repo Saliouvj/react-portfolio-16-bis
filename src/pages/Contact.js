@@ -21,6 +21,7 @@ export default class Contact extends React.Component {
 				<h1 id="contact" className={"mb-3 " + this.props.fadeInLeft} className="text-white">
 					Contact
 				</h1>
+				<p className="text-light mb-5"> Je ne vous spam pas, Soyez rassurés! </p>
 				<form
 					className={this.props.shake}
 					action="https://formspree.io/example@email.com"

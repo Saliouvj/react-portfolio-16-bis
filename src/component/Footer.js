@@ -33,7 +33,7 @@ class Footer extends React.Component {
 							</a>
 						</div>
 					</div>
-					<h5 className="pt-4"></h5>
+					<h5 className="pt-4 text-light">@saliouvj 2021</h5>
 				</div>
 			</div>
 		);
